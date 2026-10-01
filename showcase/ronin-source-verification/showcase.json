@@ -20,7 +20,8 @@
   "visual": {
     "kind": "source-cited research",
     "eyebrow": "acp + base",
-    "title": "verify sources with ronin"
+    "title": "verify sources with ronin",
+    "posterUrl": "https://raw.githubusercontent.com/Virtual-Protocol/acp-cli-demos/main/showcase/ronin-source-verification/assets/poster.jpg"
   },
   "skills": [
     {
